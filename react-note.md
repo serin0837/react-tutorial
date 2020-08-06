@@ -21,4 +21,7 @@ class ShoppingList extends React.Component {
 
 - The ShoppingList component above only renders built-in DOM components like <div /> and <li />. But you can compose and render custom React components too
 
--
+- use arrow function in Square component (to not confuse with this (?????))
+
+- next, we want the Square component to "remember" that it got clicked **state**
+  1. add constructor
