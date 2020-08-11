@@ -20,8 +20,3 @@
 
 // const addToIzzisBasket = addToBasket.bind(izzisAccount);
 // console.log(addToIzzisBasket);
-
-<div id="root"></div>;
-
-const element = <h1>Hello, World</h1>;
-ReactDOM.render(element, document.getElementById("root"));
