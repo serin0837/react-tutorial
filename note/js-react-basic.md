@@ -219,3 +219,36 @@ ReactDOM.render(
 - Passing arguments to Event Handler
 
 ## 6. Conditional Rendering
+
+- same way as js works
+- Element variables
+- inline if with &&
+- inline if-else with condition?true:false
+- Prevent component from Rendering /return null
+
+## 7. List and Keys
+
+- Rendering multiple components
+- Basic list component
+  - keys : special string attribute when creating lists of elements
+- keys
+- Extracting components with keys
+  - keys only make sense in the context of the surrounding array
+- keys need to be unique but not globally.
+
+## 8. Forms
+
+- HTML form and React form a little bit different
+- Controlled component
+  - HTML, form element maintain their own state and update it based on user input
+  - React, mutable state is kept in the state property and update with setState()
+  - combine two,
+  - An input form element whose value is controlled by React in this way is called controlled component
+- Uncontrolled component
+- Handling multiple input - add name
+
+## 9. Lifting State Up
+
+????...
+
+-
